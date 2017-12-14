@@ -1,3 +1,17 @@
+个人财务账本
+=====
+
+测试地址
+====
+http://asset.zhoukoup.com<br>
+http://asset.zhoukoup.com/admin<br>
+账号admin，密码123456
+
+
+<p>前端增加工具</p>
+表格--chart.js
+弹窗--layer.js
+
 SmartCI v1.6
 =======
 基于CI的RBAC访问控制
@@ -5,11 +19,6 @@ SmartCI v1.6
 框架：CI 2.1.4
 前端：bootstrap3.0
 模型：RBAC0（甚至更简单）
-
-<h2>个人财务开发</h2>
-<p>前端增加工具</p>
-表格--chart.js
-弹窗--layer.js
 
 <h3>在CI上增加的文件</h3>
 <pre>
@@ -50,15 +59,10 @@ $config['rbac_manage_node_hidden']   = array('manage');			//后台管理节点�
 $config['rbac_notauth_dirc']         = array('');	     	    //默认无需认证目录array("public","manage","wap")
 </pre>
 
-测试地址
-====
-http://asset.zhoukoup.com<br>
-http://asset.zhoukoup.com/admin<br>
-账号admin，密码123456
-
 页面继承设置
 =====
 <pre>$this->view_override = FALSE ，不继承页面</pre>
+
 安装设置
 ====
  * 把项目克隆到根目录
