@@ -1,0 +1,17 @@
+.search{
+    margin:10px auto;
+    float: right;
+}
+
+/*仪表盘*/
+.dashboard-panel{
+    width:49%;
+    float: left;
+    margin:0 2px;
+}
+.main-header{
+    float:left;
+    margin: 0 5px 10px;
+    width: 200px;
+}
+

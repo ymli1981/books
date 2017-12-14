@@ -1,0 +1,17 @@
+
+/*选项卡控制*/
+.ui-container .tab-control{
+	height:300px;
+}
+/*布局*/
+.ui-container .main{
+	background-color: #ffffff;
+    margin-top: 13px;
+    font-size: 0.14rem;
+}
+
+.ui-row .ui-col-w{
+	padding-left: 45px;
+	padding-bottom: 10px;
+	font-size: 15px;
+}
