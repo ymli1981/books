@@ -53,7 +53,8 @@ $config['rbac_notauth_dirc']         = array('');	     	    //默认无需认证
 测试地址
 ====
 http://asset.zhoukoup.com<br>
-http://asset.zhoukoup.com/admin，账号admin，密码123456
+http://asset.zhoukoup.com/admin<br>
+账号admin，密码123456
 
 页面继承设置
 =====
