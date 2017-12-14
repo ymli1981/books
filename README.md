@@ -50,7 +50,12 @@ $config['rbac_manage_node_hidden']   = array('manage');			//后台管理节点�
 $config['rbac_notauth_dirc']         = array('');	     	    //默认无需认证目录array("public","manage","wap")
 </pre>
 
-###页面继承设置
+测试地址
+====
+http://asset.zhoukoup.com
+
+页面继承设置
+=====
 <pre>$this->view_override = FALSE ，不继承页面</pre>
 安装设置
 ====
