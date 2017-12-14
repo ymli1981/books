@@ -57,6 +57,7 @@ $config['rbac_notauth_dirc']         = array('');	     	    //默认无需认证
  * 把项目克隆到根目录
  * 导入sql文件
  * 修改database
+
 实现功能
 =====
  * 收支管理
@@ -66,6 +67,8 @@ $config['rbac_notauth_dirc']         = array('');	     	    //默认无需认证
  * 手机wap待完善
 部分功能待完善
 ====
+
+
 喜欢star，不喜欢留言改进
 =====
 
